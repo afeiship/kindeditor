@@ -1,0 +1,29 @@
+{
+  "name": "kindeditor",
+  "version": "0.0.1",
+  "description": "Pure and stable lib.",
+  "main": "dist/kindeditor.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/kindeditor.git"
+  },
+  "keywords": [
+    "kindeditor",
+    "rich-editor",
+    "editor"
+  ],
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/kindeditor/issues"
+  },
+  "homepage": "https://github.com/afeiship/kindeditor#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.5.0"
+  }
+}
